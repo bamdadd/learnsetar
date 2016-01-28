@@ -1,3 +1,7 @@
 [
-  {title: 'کتاب اول', author: 'بامداد', year: '2015', cover: {thumbnail: 'http://www.agahi360.ir/thumb/?src=advertisement%2F927523916%2F78c949ff993488dcfee3e6b2124192b181169273.jpg&w=256&h=256'}},
+  {"title": "کتاب اول", 
+  "author": "بامداد", 
+   "year": 2015, 
+   "cover": {"thumbnail": "http://www.agahi360.ir/thumb/?src=advertisement%2F927523916%2F78c949ff993488dcfee3e6b2124192b181169273.jpg&w=256&h=256"},
+  },
 ]
